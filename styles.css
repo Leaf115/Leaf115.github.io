@@ -1,7 +1,7 @@
-* {margin-left:0px;margin-right:0px;margin-top:0px;margin-bottom:0px}
-body {background-color:#8a8a8a;color:#AAAAAA;}
-header {background-color:#8a8a8a;color:#AAAAAA;}
+* {margin-left:0px;margin-right:0px;margin-top:0px;margin-bottom:0px;font-family:Helvetica}
+body {background-color:#8a8a8a;color:#FFFFFF;}
+.header {background-color:#8a8a8a;color:#FFFFFF;text-align:centre;}
 .nav {background-color:#66ff33;color:#000000;}
-.line {background-color:#AAAAAA}
+.line {background-color:#FFFFFF}
 .main {background-color:#666666}
 h1 {font-size:40px;}
