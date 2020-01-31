@@ -1,6 +1,6 @@
-* {margin-left:0px;margin-right:0px;margin-top:0px;margin-bottom:0px;font-family:Helvetica}
+* {margin-left:0px;margin-right:0px;margin-top:0px;margin-bottom:0px;font-family:"Helvetica"}
 body {background-color:#8a8a8a;color:#FFFFFF;}
-.header {background-color:#8a8a8a;color:#FFFFFF;text-align:centre;}
+.header {background-color:#8a8a8a;color:#FFFFFF;text-align:center;}
 .nav {background-color:#66ff33;color:#000000;}
 .line {background-color:#FFFFFF}
 .main {background-color:#666666}
