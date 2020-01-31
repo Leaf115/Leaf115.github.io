@@ -1,7 +1,9 @@
-* {margin-left:0px;margin-right:0px;margin-top:0px;margin-bottom:0px;font-family:"Helvetica"}
-body {color:#FFFFFF;}
-.header {background-color:#8a8a8a;color:#FFFFFF;text-align:center;}
-.nav {background-color:#66ff33;color:#000000;}
-.line {background-color:#FFFFFF;height:10px}
-.main {background-color:#666666}
-h1 {font-size:40px;}
+body{color:#ffffff;margin-left:0px;margin-right:0px;margin-top:0px;margin-bottom:0px;background-color:4F4F4F;font-family:Helvetica;text-align:center}
+.line{background-color:#ffffff;height:5px}
+.top{background-color:#858585;}
+.nav{background-color:#66ff33}
+a:link{color:#000000}
+a:visited{color:#0f0f0f}
+a:hover{color:#00aaff}
+.link a:link{color:#00ff00}
+.link a:hover{color:#00aaff}
