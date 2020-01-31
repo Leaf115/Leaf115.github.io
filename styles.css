@@ -1,5 +1,6 @@
 * {margin-left:0px;margin-right:0px;margin-top:0px;margin-bottom:0px}
-body {background-color:#8a8a8a}
-.nav {background-color:#66ff33}
+body {background-color:#8a8a8a;color:#AAAAAA;}
+.nav {background-color:#66ff33;color:#000000;}
 .line {background-color:#AAAAAA}
 .main {background-color:#666666}
+h1 {font-size:40px;}
