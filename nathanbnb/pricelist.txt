@@ -1,4 +1,0 @@
-glasgowroom = £20
-aberdeenroom = £20
-dundeeroom = £20
-edinburghroom = £20
